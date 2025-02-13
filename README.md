@@ -1,31 +1,9 @@
 # Full Stack Vývojářem za Dva Dny
+My own final solution of a project for the "Full Stack Vývojářem za Dva Dny" (ENG: "Become a Full Stack Developer in two days") course by MENDELU.
+-> https://naostro.mendelu.cz
 
-Vítejte v repozitáři kurzu "Full Stack Vývojářem za Dva Dny". Tento kurz vás provede základy vývoje moderních webových aplikací od front endu, přes back end, až po databáze.
+-> Got 40 points out of 50 for this :D
 
-## Obsah Repozitáře
+-> Tech Stack: React, NextJS, Tailwind, SQLite
 
-- **Prezentace:** Soubory prezentací ve formátu PDF.
-- **Startovací šablona projektu:** Šablona Next.js projektu, pro snadný žačátek.
-- **Finální projekt:** Řešení projektu.
-
-## Prezentace
-
-Všechny prezentace z kurzu jsou k dispozici na následujícím odkazu na Google Disk:
-[Google Disk s Prezentacemi](https://drive.google.com/drive/folders/1QdaleCEmurHOBJE79GsWrcVg4jaXPES7?usp=sharing)
-
-## Instalace a Nastavení
-
-1. **Klonujte repozitář:**
- ```bash
-   git clone https://github.com/AdamPrchal/receptar-naostro.git
-   cd receptar-naostro
-   npm install
-  ``` 
-2. **Inicializujte databázi:**
- ```bash
-   npm run database:init
-  ``` 
-3. **Spusťte projekt:**
- ```bash
-   npm run dev 
-  ``` 
+-> Participated on the 15th and 16th of January 2025.
